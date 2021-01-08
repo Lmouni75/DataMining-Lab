@@ -1,0 +1,23 @@
+German dataset
+Attribute                data type   records
+checking_status          Nominal     4
+duration                 Numeric     4
+credit_history           Nominal     5
+purpose                  Nominal     10
+credit_amount            Numeric     4
+savings_status           Nominal     5
+employment               Nominal     5
+installment_commitment   Numeric     4 
+personal_status          Nominal     4
+other_parties            Nominal     3
+residence_since          Numeric     4
+property_magnitude       Nominal     4
+age                      Numeric     4
+other_payment_plans      Nominal     3
+housing                  Nominal     3
+existing_credits         Numeric     4
+job                      Nominal     4
+num_dependents           Numeric     4
+own_telephone            Nominal     2
+foreign_worker           Nominal     2
+class                    Nominal     2
