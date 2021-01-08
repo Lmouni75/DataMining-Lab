@@ -1,0 +1,13 @@
+@relation students
+@attribute rollnum numeric
+@attribute name string
+@attribute Dept {cse,ece,eee,it}
+@attribute class {PASS, FAIL}
+@attribute age numeric
+@attribute timer date "yyy-mm-dd hh:mm:ss"
+
+@data
+12,tom,cse,PASS,20,"2001-04-03 12:12:12"
+14,ben,ece,FAIL,25,"2001-05-03 11:11:11"
+17,gwen,cse,PASS,21,"2008-12-03 08:08:32"
+© 2021 GitHub, Inc.
